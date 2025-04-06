@@ -1,4 +1,4 @@
-name = "arcgx-portfolio"
+name = "arcgx"
 type = "javascript"
 account_id = "<your-cloudflare-account-id>"
 compatibility_date = "2025-04-06"
