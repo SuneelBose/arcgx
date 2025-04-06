@@ -1,0 +1,11 @@
+name = "arcgx-portfolio"
+type = "javascript"
+account_id = "<your-cloudflare-account-id>"
+compatibility_date = "2025-04-06"
+
+[site]
+bucket = "./dist"
+entry-point = "."
+
+[build]
+command = "npm run build"
